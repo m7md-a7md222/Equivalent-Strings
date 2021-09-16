@@ -1,1 +1,111 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T17:15:13.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="80vlwPFgY6_ioPSFm8j8" version="15.2.7" type="github"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">7ZjLcpswFIafhmU6RhgbL2Pn0kU6yTSdSbOU4QTUCMQIEeM+fSUQYC5OcGrctNOVpV8XxP/pnMPYsFZhds1xHHxhHlADTbzMsC4MhEyELPmjlK1WTAcVis+Jp7VauCc/QYsTrabEg6QxUTBGBYmbosuiCFzR0DDnbNOc9sRo86kx9qEj3LuYdtUH4omgUB17UuufgfhB+WRzokdCXE7WQhJgj212JOvSsFacMVG0wmwFVLlX+lKsu9ozWh2MQySGLLCidHmV8YW7vZnE0e3DN4Svz/QuL5im+oUN6/x2/UNZWZxabEsr5AvEqpmG9IY8ASWR7C1j4CQEAVyOUC3f1dpSghFYamrczPuU4jgh63zbiVQ4uClPyAt8haTgn6ssjTzwdK8yL+8Izp4rHGpT/RbABWR77TEr0+V1BSYPyLdySnVXNSd9Ux3d3dTUK7bBDnGrFLG+aX61dQ1DNjSPA9igLps2kpiRSOTPtZeGfdHCwbgImM8iTHeBHN/Y/Tdrr9tTu2H2vM/srtfmYiyvrY7XHkliLNyg47kyg8gEcU6JH0lpzYRgYe4e5uJc5RzlvdxKahB5pbKmzH0up+lE5wwlAF4nTQ3xXyZLzH14bR7q58SBYiFjsplQe2zXS+/UTaz5npn9gMsdEpZyF/SiFrvqFO/HOf2HQ8du5qkqb70RO85YoWP/LyFZqxR8mBIy+6vjwD6khPSa3VNCZmN5Pe94zUGkPBpeQHaKBYtBDi09nAS5z2YxvFM2ICPiuzZdtR9V+9PCfndFKVLy25dpWEUZFDe/WWTQvHkFkDVrblEcdbQq4xzho6HnA0G6xrcVWtV5PCTSDgeLBoKd/SmwnaAd+fNh0QEr0dE1lniOAtY8EdihETs9Gdhps0KiduUbGWxZEU6dpM2TJenph4vlNnJ7fqQkLbv1vyfF9PpPKOvyFw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-16T18:39:42.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="ynSCDLgBoi1rWO9c_ysc" version="15.2.7" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="2128" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="Trip" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="80" width="100" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-4" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
+          <mxGeometry x="44" y="81" width="10" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="Rate and Review " style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="80" width="100" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
+          <mxGeometry x="45" y="150" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="K0uiUiVQJnd_BR2d5aEN-2" value="Traveller" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0uiUiVQJnd_BR2d5aEN-3" value="Trip info Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="80" width="100" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="K0uiUiVQJnd_BR2d5aEN-4" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="K0uiUiVQJnd_BR2d5aEN-3">
+          <mxGeometry x="45" y="80" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="K0uiUiVQJnd_BR2d5aEN-17" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="K0uiUiVQJnd_BR2d5aEN-3">
+          <mxGeometry x="45" y="210" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="K0uiUiVQJnd_BR2d5aEN-8" value="" style="endArrow=none;dashed=1;html=1;startArrow=none;" edge="1" parent="1" source="K0uiUiVQJnd_BR2d5aEN-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="510" as="sourcePoint" />
+            <mxPoint y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K0uiUiVQJnd_BR2d5aEN-7" value="Click on Trip review" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="179" as="sourcePoint" />
+            <mxPoint x="170" y="179" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K0uiUiVQJnd_BR2d5aEN-10" value="Get trip id" style="endArrow=classic;html=1;exitX=0.96;exitY=0.21;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.153;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="K0uiUiVQJnd_BR2d5aEN-4">
+          <mxGeometry x="-0.3005" y="7" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="173.5999999999999" y="176.79999999999995" as="sourcePoint" />
+            <mxPoint x="535" y="176.79999999999995" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K0uiUiVQJnd_BR2d5aEN-11" value="movie info" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;dashed=1;exitX=0.18;exitY=0.402;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="K0uiUiVQJnd_BR2d5aEN-4">
+          <mxGeometry x="0.2405" width="160" relative="1" as="geometry">
+            <mxPoint x="539.5" y="204" as="sourcePoint" />
+            <mxPoint x="169.5" y="204" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K0uiUiVQJnd_BR2d5aEN-12" value="Review(movie id , user id)" style="endArrow=classic;html=1;entryX=-0.42;entryY=0.092;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="3nuBFxr9cyL0pnOWT2aG-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169.5" y="242" as="sourcePoint" />
+            <mxPoint x="340" y="242" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K0uiUiVQJnd_BR2d5aEN-13" value="validate user , movie(UserId , MovieID)" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="358" y="240.21" as="sourcePoint" />
+            <mxPoint x="580" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K0uiUiVQJnd_BR2d5aEN-14" value="Review (write a review or Upload a photo )" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="300" as="sourcePoint" />
+            <mxPoint x="350" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K0uiUiVQJnd_BR2d5aEN-15" value="Submit(Review)" style="endArrow=classic;html=1;exitX=1.02;exitY=0.771;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="352.1999999999998" y="299.39" as="sourcePoint" />
+            <mxPoint x="577" y="299" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K0uiUiVQJnd_BR2d5aEN-16" value="Validated()" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="578.5" y="262" as="sourcePoint" />
+            <mxPoint x="349.5" y="262" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K0uiUiVQJnd_BR2d5aEN-19" value="Submitted(Review)" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="575.5" y="325" as="sourcePoint" />
+            <mxPoint x="356" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K0uiUiVQJnd_BR2d5aEN-20" value="Show Successful message" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;dashed=1;exitX=0.06;exitY=0.909;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.9;entryY=0.921;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3nuBFxr9cyL0pnOWT2aG-6" target="K0uiUiVQJnd_BR2d5aEN-21">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="340" y="350" as="sourcePoint" />
+            <mxPoint x="10" y="347" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K0uiUiVQJnd_BR2d5aEN-21" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="170" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="K0uiUiVQJnd_BR2d5aEN-22" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1" target="K0uiUiVQJnd_BR2d5aEN-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="510" as="sourcePoint" />
+            <mxPoint y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
